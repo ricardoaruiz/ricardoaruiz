@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Atuo na área desde 2000 sempre com desernvolvimento de sistemas. <br><br>Tive a oportunidade de trabalhar com diversas tecnologias entre as stacks backend e frontend.<br><br>Entre as principais tecnologias que já trabalhei posso citar Java, Javascript, HTML, CSS, React JS, Node JS, Next JS, Nest JS assim como libs que circundam essas tecnologias.<br><br>Nos últimos anos tenho atuado como Frontend com as tecnologias React JS, Next JS, Typescript, Javascript, HTML, CSS (CSS-in-JS e Tailwind), Zustand, Radix, Jest, Storybook</p>
+<p align="left">Atuo na área desde 2000 sempre com desernvolvimento de sistemas. <br><br>Tive a oportunidade de trabalhar com diversas tecnologias entre as stacks backend e frontend.<br><br>Entre as principais tecnologias que já trabalhei posso citar Java, Javascript, HTML, CSS, React JS, Node JS, Fastify, Prisma, Drizzle, Next JS, Nest JS assim como libs que circundam essas tecnologias.<br><br>Nos últimos anos tenho atuado como Frontend com as tecnologias React JS, Next JS, Typescript, Javascript, HTML, CSS (CSS-in-JS e Tailwind), Zustand, Radix, Jest, Storybook</p>
 
 ###
 
